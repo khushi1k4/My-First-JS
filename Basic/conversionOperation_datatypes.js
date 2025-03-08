@@ -79,8 +79,9 @@
 // "abc" => Boolean => true
 // "4" => Boolean => true
 
-let someNumber = 30 
-let stringNumber= String(someNumber) //Number converted into string
-console.log(stringNumber);
-console.log(typeof(stringNumber));
+// let someNumber = 30 
+// let stringNumber= String(someNumber) //Number converted into string
+// console.log(stringNumber);
+// console.log(typeof(stringNumber));
+
 
